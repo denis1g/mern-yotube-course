@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "den youtube mern",
+	"mongoUri": "mongodb+srv://denis:denis243@cluster0-ssk2y.azure.mongodb.net/app?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
